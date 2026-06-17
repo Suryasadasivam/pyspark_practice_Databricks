@@ -2,4 +2,5 @@
 
 PySpark Practice - Databricks Notebook Collection
 
-Every major PySpark concept from the DataFrame API to Delta Lake:
+Every major PySpark concept from the DataFrame API to Delta Lake;
+
